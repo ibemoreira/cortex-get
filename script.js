@@ -15,13 +15,11 @@ style.sheet.insertRule(`
   }
 `, style.sheet.cssRules.length);
 
-// 
-
 
 if (tabela) {
     // Array para armazenar as linhas já capturadas
     let linhasCapturadas = [];
-    // tabela.style.width = '40%';
+    
 
     // Função para capturar as linhas da tabela e exibir no console
     const capturarLinhas = () => {
