@@ -12,14 +12,19 @@ A Extensão de Alertas Cortex é uma ferramenta para captura de alertas do siste
 - Envia os dados formatados para um chat do Telegram.
 
 ## Exemplo de Mensagem no Telegram
-"**Novo Alerta** 🚨🕒 Data e Hora: 17/11/2022 14:30
-🚗 Placa: ABC-1234
+<code style="background-color: #F5F5DC; padding: 10px; border-radius: 10px;">
+ &lt;pre&gt;
+**Novo Alerta**
+🚨🕒 Data e Hora: 17/11/2022 14:30
+🚗 Placa: ABC-1234`
 🚘 Veículo: Honda Civic
 🔎 Chassi: 9BW0H54U22S020001
 📋 Situação: Furto
 📍 Localização: Rua da Praia, 123 - Centro
 🏙️ Cidade: Vitória🗺️ Estado: Espírito Santo
-🌐 Coordenadas: [Ver no Google Maps](https://www.google.com/maps/@-20.320567,-40.2921897,15z)"
+🌐 Coordenadas: [Ver no Google Maps](https://www.google.com/maps/@-20.320567,-40.2921897,15z)
+&lt;/pre&gt;
+</code>
 
 ## Arquivos Principais
 - **`index.html`**: Página principal com formulário e ligação ao script.
