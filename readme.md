@@ -1,7 +1,7 @@
 # Extensão de Alertas Cortex
 
 ## Desenvolvedor
-Wilberte Santos
+Wilberte Santos - [LinkedIn](https://www.linkedin.com/in/wilberte-leite-dos-santos-49061493/)
 
 ## Descrição
 A Extensão de Alertas Cortex é uma ferramenta para captura de alertas do sistema Cortex. Ela analisa e envia informações específicas para um bot do Telegram, permitindo o monitoramento em tempo real. **Todos os dados são protegidos e este é um trabalho acadêmico com fins educacionais**.
