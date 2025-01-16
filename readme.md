@@ -23,9 +23,7 @@ A Extensão de Alertas Cortex é uma ferramenta para captura de alertas do siste
 🌐 Coordenadas: [Ver no Google Maps](https://www.google.com/maps/@-20.320567,-40.2921897,15z)
 
 ## Arquivos Principais
-- **`index.html`**: Página principal com formulário e ligação ao script.
 - **`script.js`**: Contém as funções para captura de dados e envio para o Telegram.
-- **`style.css`**: Estilos básicos para o formulário.
 - **`manifest.json`**: Arquivo de configuração da extensão do Chrome.
 
 ## Instalação
